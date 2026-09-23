@@ -17,9 +17,9 @@
 
 - 🔭 I’m currently working on [Elpha](https://github.com/pranshu05/elpha)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **JAVA FULL STACK**
 
-- 👯 I’m looking to collaborate on **Discord bot**
+- 👯 I’m looking to collaborate on **WEB PROJECTS**
 
 - 👨‍💻 All of my projects are available at [https://pranshu05.github.io](https://pranshu05.github.io)
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **pranshu05patel@gmail.com**
 
-- ⚡ Fun fact **I am chess enthusiast**
+- ⚡ Fun fact **I am CRICKET LOVER**
 
 # Server
 
