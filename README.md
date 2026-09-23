@@ -4,7 +4,7 @@
 
 <div align="right" >
    
-# Hi, I'm Pranshu!
+# Hi, I'm Feroz Ahmed!
 
 </div>
 
