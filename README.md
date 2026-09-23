@@ -29,14 +29,6 @@
 
 - ⚡ Fun fact **I am CRICKET LOVER**
 
-# Server
-
-<div align="center">
-
-[![widget](https://invidget.switchblade.xyz/CVyx9qyYPF)](https://discord.gg/CVyx9qyYPF)
-   
-</div>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshu05) 
