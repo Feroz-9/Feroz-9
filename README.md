@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **WEB PROJECTS**
 
-- 👨‍💻 All of my projects are available at [Feroz-9 untitled projects]
+- 👨‍💻 All of my projects are available at [https://github.com/users/Feroz-9/projects/2/views/1]
 
 - 💬 Ask me about **discord.js**
 
