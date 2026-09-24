@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **WEB PROJECTS**
 
-- 👨‍💻 All of my projects are available at [https://pranshu05.github.io](https://pranshu05.github.io)
+- 👨‍💻 All of my projects are available at [https://Feroz-9.github.io](https://Feroz-9.github.io)
 
 - 💬 Ask me about **discord.js**
 
