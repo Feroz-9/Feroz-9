@@ -15,7 +15,7 @@
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/70943732/209951414-a2e5a1bb-73e6-473d-895d-9baa0f0a5117.png">
 
 
-- 🔭 I’m currently working on [Elpha](https://github.com/pranshu05/elpha)
+- 🔭 I’m currently working on [Java Full Stack projects]()
 
 - 🌱 I’m currently learning **JAVA FULL STACK**
 
@@ -23,9 +23,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/users/Feroz-9/projects/2/views/1]
 
-- 💬 Ask me about **discord.js**
+- 💬 Ask me about **AI AGENTS**
 
-- 📫 How to reach me **pranshu05patel@gmail.com**
+- 📫 How to reach me **ferozahmedsk108@gmail.com**
 
 - ⚡ Fun fact **I am CRICKET LOVER**
 
